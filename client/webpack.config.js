@@ -32,7 +32,7 @@ module.exports = () => {
         name: 'Just-Another-Text-Editor',
         short_name: 'JATE',
         description: "Text editor using PWA",
-        background_color: '#fffff',
+        background_color: '#225ca3',
         start_url: './',
         publicPath: './',
         icons: [
