@@ -56,6 +56,7 @@ module.exports = () => {
           test: /\.m?js$/,
           exclude: /node_modules/,
           use: {
+            //adding babel to webpack
             loader: 'babel-loader',
             options: {
               presets: ['@babel/preset-env'],
