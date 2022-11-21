@@ -19,6 +19,8 @@ The ZW-PWA-TEXT-EDITOR is just another text editor (J.A.T.E) program that allows
 
 VISIT THE DEPLOYED APPLICATION HERE: [J.A.T.E](https://zw-pwa-text-editor.herokuapp.com/)
 
+![Screenshot of JATE](./assets/zw-jate.jpg)
+
 
 ## **Installation**
 
