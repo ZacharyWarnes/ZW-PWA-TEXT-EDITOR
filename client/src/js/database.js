@@ -31,4 +31,5 @@ export const getDb = async () => {
   return result;
 };
 
+//attempting to inject DB into server once more. Accidentally deletes the store
 initdb();
